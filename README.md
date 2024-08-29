@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 작성일자 : 2024. 8. 15
+
 <!--
 **joarch20/joarch20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
